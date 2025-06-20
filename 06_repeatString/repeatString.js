@@ -1,4 +1,8 @@
-const repeatString = function() {
+const repeatString = function(a) {
+  let i = 3;
+  while(i>0){
+    console.log(a)
+  i--;}
 
 };
 
